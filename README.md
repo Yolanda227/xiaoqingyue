@@ -1,12 +1,5 @@
 # xiaoqingyue.github.io
-Data Scientist
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
-Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+Data Scientist with 10+ year' experience in Consulting, Sales and Marketing, expert in applying Statistical Analysis and Machine Learning Models to deliver impactful, data-driven insights. Excellent communication skills with technical and non-technical audiences. Strong project leadership and team collaboration skills.
 
 Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
