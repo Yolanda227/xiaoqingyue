@@ -1,4 +1,4 @@
-# xiaoqingyue.github.io
+# Xiaoqing Yue
 Data Scientist with 10+ year' experience in Consulting, Sales and Marketing, expert in applying Statistical Analysis and Machine Learning Models to deliver impactful, data-driven insights. Excellent communication skills with technical and non-technical audiences. Strong project leadership and team collaboration skills.
 
 Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
