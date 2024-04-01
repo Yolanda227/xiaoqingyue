@@ -1,3 +1,4 @@
+![pic](Pictures/profile.jpg)
 # Data Science Portfolio - Xiaoqing Yue
 
 ## About Me
@@ -8,3 +9,10 @@ Data Scientist with 10+ years of Telecom experience in Consulting and Sales&Mark
 ## Projects
 
 Explore my portfolio of machine learning projects below. Click on each project to access the full analysis and code. I have clear futuristic intentions to develop my data science skill primarily in the area of Supply Chain, but very well open to innovative challanges in about any field.
+
+**Future Interest:**  
+`Demand Forecasting`,  `Predictive Maintenance`,  `Inventory Optimization`, `Supplier Performance Analysis`.
+
+---
+
+
