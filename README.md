@@ -1,4 +1,4 @@
-![pic](pictures/profile.jpg)  # Data Science Portfolio - Xiaoqing Yue
+![pic](pictures/profile.jpg)  ## Data Science Portfolio - Xiaoqing Yue
 
 ## About Me
 
